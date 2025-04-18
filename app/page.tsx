@@ -40,7 +40,7 @@ export default function WindowsLinktree() {
             }, 200)
             return 100
           }
-          return prev + 3
+          return prev + 2
         })
       }, 10)
 
